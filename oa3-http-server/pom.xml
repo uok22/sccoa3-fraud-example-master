@@ -43,6 +43,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-contract-verifier</artifactId>
+			<!--<version>RELEASE</version>-->
 			<version>${spring-cloud-contract.version}</version>
 			<scope>test</scope>
 		</dependency>
